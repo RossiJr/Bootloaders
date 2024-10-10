@@ -6,8 +6,8 @@
 > It is explained using Linux OS, but it is possible to use in Windows as well.
 > 
 > Two softwares are required:
-	> 1.  [FASM Assembly](https://flatassembler.net/download.php) -> Assembler used to transform Assembly files into Binary ones;
-	> 2. qemu -> This is a machine emulator, which allows you to "boot a machine" easily with the Bootloader file (to install run `sudo apt install qemu-system-x86`, make sure your OS is updated with the command `sudo apt update`).
+>	1.  [FASM Assembly](https://flatassembler.net/download.php) -> Assembler used to transform Assembly files into Binary ones;
+>	2. qemu -> This is a machine emulator, which allows you to "boot a machine" easily with the Bootloader file (to install run `sudo apt install qemu-system-x86`, make sure your OS is updated with the command `sudo apt update`).
 
 #### 1. First Step
 Select the Bootloader file you want and then save it to a directory. Next, go to the FASM installation directory and run the following command:
