@@ -43,3 +43,9 @@ When a question pops up, click on "No".
 ---
 
 Following those steps you are going to be able to test the Bootloader files found on this repository.
+
+
+
+---
+
+> The references for this work are: [hackingnaweb](https://hackingnaweb.com/) and [x-hacker](http://www.x-hacker.org/ng/bios/ngd4d7.html) for BIOS interruptions.
